@@ -1,0 +1,6 @@
+Hello GitHub!
+
+This is a test file to verify GitHub connectivity.
+Created on: 6/8/2025, 10:27 PM (Europe/London)
+
+Repository test successful!
